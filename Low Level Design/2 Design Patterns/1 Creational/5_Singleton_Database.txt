@@ -1,0 +1,6 @@
+Tokyo
+33000
+Delhi
+5000
+Mumbai
+40000
