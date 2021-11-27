@@ -2,7 +2,7 @@
 using namespace std;
 
 // Subtypes should be immediately substitutable for their basetype
-// If S is subtype of T then object of T may be replaced with object of S w/o altering any desired property
+// If S is subtype of T then object of S may be replaced with object of T w/o altering any desired property
 
 class Rectangle
 {
