@@ -1,4 +1,5 @@
 // Inside library.hpp
+//It is a structural design pattern that allows the programmer maintain abstraction and allows the client to extend the class Implementation.
 #include <bits/stdc++.h>
 using namespace std;
 
